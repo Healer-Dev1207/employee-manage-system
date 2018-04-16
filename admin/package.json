@@ -1,0 +1,28 @@
+{
+  "name": "employee",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1611574754.9020f2a",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/toast": "^3.3.1",
+    "apexcharts": "^3.26.0",
+    "core-js": "^3.6.5",
+    "moment": "^2.29.1",
+    "nuxt": "^2.14.6",
+    "vue-apexcharts": "^1.6.0",
+    "vue-awesome-countdown": "^1.1.4",
+    "vue-observe-visibility": "^1.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}

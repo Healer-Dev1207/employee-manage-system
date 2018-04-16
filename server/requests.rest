@@ -1,0 +1,11 @@
+GET http://localhost:5000/admin/employees
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhlbGxvIiwicGFzc3dvcmQiOiJoZWxsbyIsImlhdCI6MTYxMTUwMTI5OH0.lyW_IiDeo0l7CUh2Y7e2aLaSNhjYEHvkf5p1DGcUwIM
+
+###
+POST http://localhost:5000/auth/admin
+Content-Type: application/json
+
+{
+    "username": "hello",
+    "password": "hello"
+}

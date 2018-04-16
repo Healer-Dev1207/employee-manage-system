@@ -1,0 +1,3 @@
+#DONE: Create a cron job for monthly recreation of attendance table in employee/_id.vue
+#DONE: cron job to mark employees present daily !important
+#TODO: Error Handling
