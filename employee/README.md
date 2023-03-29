@@ -1,9 +1,9 @@
-# Employee - Employee Management System
+# Employee - Employee Manage System
 
-Employee Pages - A Fully Responsive Employee Management System built with Vue and NodeJS 
+Employee Pages - A Fully Responsive Employee Manage System built with Vue and NodeJS 
 
- - [Report  Bug](https://github.com/thepasterover/employee-management-system/issues)
- - [Request Feature](https://github.com/thepasterover/employee-management-system/issues)
+ - [Report  Bug](https://github.com/jaspo-dev/employee-manage-system/issues)
+ - [Request Feature](https://github.com/jaspo-dev/employee-manage-system/issues)
 
 Table of contents
 1. [About the project](#about-the-project)
@@ -91,7 +91,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Name: Boobalan Shettiyar - boopalanshettiyar78@gmail.com
-ProjectLink: https://github.com/thepasterover/employee-management-system
+Name: Jasper Perry - futuresea.talent.dev713@gmail.com
+ProjectLink: https://github.com/jaspo-dev/employee-manage-system
 
 
